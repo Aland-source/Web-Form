@@ -1,0 +1,86 @@
+body{
+    margin: 0;
+    background-color: white;   
+}
+.box1{
+    width: 700px;
+    height: 450px;
+    background-color:rgb(255, 255, 255);
+    position: relative;
+    left: 360px;
+    top: 120px;
+    border-radius: 20px;
+    border: 4px solid #7C4585;
+}
+.T7{
+    
+        position: absolute;
+        top: 180px;
+        left: 60px;
+        height: 15px;
+        width: 200px;
+        border: 3px solid#7C4585;
+    
+        border-radius: 15px;
+        padding: 10px 15px;
+        
+}
+
+.T8{
+   
+        position: absolute;
+        top: 255px;
+        left: 60px;
+        height: 15px;
+        width: 200px;
+        border-radius: 15px;
+        border: 3px solid#7C4585;
+        padding: 10px 15px;
+    
+}
+.img1{
+    position: absolute;
+    width: 380px;
+    height: 380px;
+    left: 300px;
+    top: 45px;
+}
+.H11{
+    position: absolute;
+    left:90px;
+    top: 57px;
+    color: #7C4585;
+}
+.Signup{
+    position: absolute;
+    top: 380px;
+    left: 78px;
+    color: grey;
+    
+}
+.signup1{
+    text-decoration: none;
+    color: blue;
+    
+}
+
+.B2
+{
+    position: absolute;
+    top: 330px;
+    left:110px;
+    border-radius: 10px;
+    width: 130px;
+    height: 40px;
+    background-color: white;
+    color: #7C4585;
+    font-weight: bold;
+    font-size: 15px;
+    border:3px solid#7C4585;
+}
+.B2:hover
+{
+    background-color: #7C4585;
+    color: white;
+    cursor: pointer;
+}
